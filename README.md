@@ -2,7 +2,7 @@
 
 ![](/images/figure_TLE_summary.png)
 
-This repository contains the code that is necessary to reproduce the work of Buchin et al. 2020 (https://www.cell.com/cell-reports/fulltext/S2211-1247(22)01769-7?uuid=uuid%3A4b7f2742-5a1f-4893-9934-bb5c7b271870). The repository contains the code for Python, Matlab and R used in this study. To make is easier to comprehend, the code is organized into subdirectories that correspond to figures.
+This repository contains the code that is necessary to reproduce the work of Buchin et al. 2022 (https://www.cell.com/cell-reports/fulltext/S2211-1247(22)01769-7?uuid=uuid%3A4b7f2742-5a1f-4893-9934-bb5c7b271870). The repository contains the code for Python, Matlab and R used in this study. To make is easier to comprehend, the code is organized into subdirectories that correspond to figures.
 
 ## Getting Started
 
